@@ -1,15 +1,20 @@
+body{
+ background-image: url(http://axonshare.com/wp-content/uploads/2014/02/In-Blue.jpg)
+}
 div{
-    border-style:solid;
+   border-style: none;
     border-width: 5px;
-    border-color: green;
     padding: 30px;
-   }   
-
-.container{
-   border-color: blue; 
 }
-.row{
-    border-color: red;
+.center{
+    text-align: center;
 }
-
- 
+.h1{
+  semibold: 30px;
+}
+a{
+        text-decoration: none;
+        color: black;
+    } 
+    article p{/*gy here im changing the color of my letters and centering my font also making a border line*/
+    color: black;
