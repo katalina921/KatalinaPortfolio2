@@ -9,12 +9,13 @@ div{
 .center{
     text-align: center;
 }
-.h1{
+/*.h1{
   semibold: 30px;
-}
+}*/
 a{
         text-decoration: none;
         color: black;
     } 
     article p{/*gy here im changing the color of my letters and centering my font also making a border line*/
     color: black;
+    }
