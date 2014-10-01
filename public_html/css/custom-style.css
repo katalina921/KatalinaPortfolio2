@@ -19,3 +19,26 @@ a{
     article p{/*gy here im changing the color of my letters and centering my font also making a border line*/
     color: black;
     }
+    .jumbotron{
+        border-style: solid;
+        border-width: 5px;
+        padding: 30px;
+    border-color: gray;
+    }
+    
+    .p{
+      border-style: solid;
+    border-width: 5px;
+    padding: 30px;   
+    border-color: white;
+    } 
+     
+    #border { 
+     border-style: solid; 
+     border-color: whitesmoke; 
+     float: right;
+    } 
+     
+    .img-circle {
+        float: left;
+    }
